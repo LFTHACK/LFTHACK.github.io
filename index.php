@@ -1,3 +1,5 @@
 <?php
-echo "Ну здавствуй";
+    echo 'Hello, world!';
+    echo '<br>';
+    phpinfo();
 ?>
